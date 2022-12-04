@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gptchatapp-staging-154913-authRole",
+      "UnauthRoleArn": "arn:aws:iam::572170653211:role/amplify-gptchatapp-staging-154913-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::572170653211:role/amplify-gptchatapp-staging-154913-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-gptchatapp-staging-154913-deployment",
+      "UnauthRoleName": "amplify-gptchatapp-staging-154913-unauthRole",
+      "StackName": "amplify-gptchatapp-staging-154913",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:572170653211:stack/amplify-gptchatapp-staging-154913/0973cde0-7322-11ed-9420-0e521e90d90b",
+      "AmplifyAppId": "d2ur53rbh4sjvu"
+    }
+  }
+}
