@@ -1,15 +1,20 @@
 {
   "staging": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-gptchatapp-staging-154913-authRole",
-      "UnauthRoleArn": "arn:aws:iam::572170653211:role/amplify-gptchatapp-staging-154913-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::572170653211:role/amplify-gptchatapp-staging-154913-authRole",
+      "AuthRoleName": "amplify-amplify1f67e25ba4aa4-staging-194111-authRole",
+      "UnauthRoleArn": "arn:aws:iam::572170653211:role/amplify-amplify1f67e25ba4aa4-staging-194111-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::572170653211:role/amplify-amplify1f67e25ba4aa4-staging-194111-authRole",
       "Region": "ap-northeast-1",
-      "DeploymentBucketName": "amplify-gptchatapp-staging-154913-deployment",
-      "UnauthRoleName": "amplify-gptchatapp-staging-154913-unauthRole",
-      "StackName": "amplify-gptchatapp-staging-154913",
-      "StackId": "arn:aws:cloudformation:ap-northeast-1:572170653211:stack/amplify-gptchatapp-staging-154913/0973cde0-7322-11ed-9420-0e521e90d90b",
-      "AmplifyAppId": "d2ur53rbh4sjvu"
+      "DeploymentBucketName": "amplify-amplify1f67e25ba4aa4-staging-194111-deployment",
+      "UnauthRoleName": "amplify-amplify1f67e25ba4aa4-staging-194111-unauthRole",
+      "StackName": "amplify-amplify1f67e25ba4aa4-staging-194111",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:572170653211:stack/amplify-amplify1f67e25ba4aa4-staging-194111/9b6fc890-740b-11ed-a81c-0e1629f28a1d",
+      "AmplifyAppId": "dkwt8idl3pcfx"
+    },
+    "categories": {
+      "auth": {
+        "sampleamplifyapp": {}
+      }
     }
   }
 }
